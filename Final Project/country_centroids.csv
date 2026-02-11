@@ -1,0 +1,35 @@
+iso3_code,country_name,latitude,longitude,hemisphere
+USA,United States,39.8283,-98.5795,Northern
+CAN,Canada,56.1304,-106.3468,Northern
+MEX,Mexico,23.6345,-102.5528,Northern
+BRA,Brazil,-14.235,-51.9253,Southern
+ARG,Argentina,-38.4161,-63.6167,Southern
+DEU,Germany,51.1657,10.4515,Northern
+FRA,France,46.2276,2.2137,Northern
+GBR,United Kingdom,55.3781,-3.436,Northern
+UKR,Ukraine,48.3794,31.1656,Northern
+RUS,Russia,55.7558,37.6173,Northern
+TUR,Turkey,38.9637,35.2433,Northern
+CHN,China,35.8617,104.1954,Northern
+IND,India,20.5937,78.9629,Northern
+JPN,Japan,36.2048,138.2529,Northern
+KOR,South Korea,35.9078,127.7669,Northern
+IDN,Indonesia,-0.7893,113.9213,Southern
+THA,Thailand,15.87,100.9925,Northern
+VNM,Vietnam,14.0583,108.2772,Northern
+PAK,Pakistan,30.3753,69.3451,Northern
+BGD,Bangladesh,23.685,90.3563,Northern
+MMR,Myanmar,21.9162,95.956,Northern
+PHL,Philippines,12.8797,121.774,Northern
+NPL,Nepal,28.3949,84.124,Northern
+EGY,Egypt,26.8206,30.8025,Northern
+NGA,Nigeria,9.082,8.6753,Northern
+ETH,Ethiopia,9.145,40.4897,Northern
+ZAF,South Africa,-30.5595,22.9375,Southern
+KEN,Kenya,-0.0236,37.9062,Southern
+TZA,Tanzania,-6.369,34.8888,Southern
+MAR,Morocco,31.7917,-7.0926,Northern
+UGA,Uganda,1.3733,32.2903,Northern
+MWI,Malawi,-13.2543,34.3015,Southern
+MLI,Mali,17.5707,-3.9962,Northern
+AUS,Australia,-25.2744,133.7751,Southern
