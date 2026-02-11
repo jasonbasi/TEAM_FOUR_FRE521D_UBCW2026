@@ -1,0 +1,38 @@
+%(asctime)s | %(levelname)-8s | %(message)s
+%(asctime)s | %(levelname)-8s | %(message)s
+%(asctime)s | %(levelname)-8s | %(message)s
+%(asctime)s | %(levelname)-8s | %(message)s
+%(asctime)s | %(levelname)-8s | %(message)s
+%(asctime)s | %(levelname)-8s | %(message)s
+2026-02-10 02:29:02,843 | INFO     | Testing INFO message
+2026-02-10 02:29:02,858 | WARNING  | Testing WARNING message
+2026-02-10 02:29:02,873 | ERROR    | Testing ERROR message
+2026-02-10 02:32:29,958 | WARNING  | Attempt 1 failed for unreliable_function. Retrying in 1 seconds. Error: Simulated failure #1
+2026-02-10 02:32:30,966 | WARNING  | Attempt 2 failed for unreliable_function. Retrying in 2 seconds. Error: Simulated failure #2
+2026-02-10 02:40:32,246 | INFO     | Starting extraction from Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:40:32,256 | ERROR    | Source file not found: Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:41:35,745 | INFO     | Starting extraction from Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:41:35,748 | ERROR    | Source file not found: Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:43:14,176 | INFO     | Starting extraction from Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:43:14,190 | ERROR    | Source file not found: Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:43:28,379 | INFO     | Starting extraction from Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:43:28,397 | ERROR    | Source file not found: Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:44:37,467 | INFO     | Starting extraction from Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:44:37,471 | ERROR    | Source file not found: Datasets/GlobalWeatherRespository.csv
+2026-02-10 02:45:12,566 | INFO     | Testing INFO message
+2026-02-10 02:45:12,575 | WARNING  | Testing WARNING message
+2026-02-10 02:45:12,577 | ERROR    | Testing ERROR message
+2026-02-10 02:45:19,432 | WARNING  | Attempt 1 failed for unreliable_function. Retrying in 1 seconds. Error: Simulated failure #1
+2026-02-10 02:45:20,447 | WARNING  | Attempt 2 failed for unreliable_function. Retrying in 2 seconds. Error: Simulated failure #2
+2026-02-10 02:45:34,140 | INFO     | Starting extraction from Datasets/GlobalWeatherRepository.csv
+2026-02-10 02:45:34,449 | INFO     | Extraction complete: 43884 rows loaded
+2026-02-10 02:45:34,450 | INFO     | Starting transformation...
+2026-02-10 02:45:34,517 | INFO     | Transformation complete
+2026-02-10 02:45:34,518 | INFO     | Starting load to database 'weather_pipeline.db', table 'weather_data'
+2026-02-10 02:45:35,084 | INFO     | Load complete: 43884 rows written to weather_data
+2026-02-10 02:47:52,863 | INFO     | Starting extraction from Datasets/GlobalWeatherRepository.csv
+2026-02-10 02:47:53,185 | INFO     | Extraction complete: 43884 rows loaded
+2026-02-10 02:47:53,191 | INFO     | Starting transformation...
+2026-02-10 02:47:53,228 | INFO     | Transformation complete
+2026-02-10 02:47:53,243 | INFO     | Starting load to database 'weather_pipeline.db', table 'weather_data'
+2026-02-10 02:47:54,381 | INFO     | Load complete: 43884 rows written to weather_data
